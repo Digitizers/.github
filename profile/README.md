@@ -1,12 +1,42 @@
-## Hi there 👋
+# Digitizer 🚀
 
-<!--
+**Your tech partner for growth.** We build, optimize, and scale websites and digital products for tech companies.
 
-**Here are some ideas to get you started:**
+## What We Do
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+🌐 **Web Development** — WordPress, Next.js, headless architectures  
+⚡ **Performance** — Speed optimization, Core Web Vitals, hosting management  
+🔍 **SEO & Content** — Technical SEO, bilingual content (Hebrew + English), AI-powered content pipeline  
+🤖 **AI-Powered Tools** — We build and use AI agents to deliver faster, better, cheaper
+
+## Our Open Source Projects
+
+| Project | Description |
+|---------|-------------|
+| [**WordPress API Pro**](https://github.com/Digitizers/wordpress-api-pro) | 🔧 Manage WordPress sites via REST API — posts, media, Elementor, WooCommerce, ACF, Rank Math. Multi-site support. [ClawHub](https://clawhub.ai/benkalsky/wordpress-api-pro) |
+| [**AuraWorker**](https://github.com/Digitizers/AuraWorker) | 🔌 WordPress plugin for AI-powered site management — connects your sites to [Aura](https://my-aura.app) dashboard |
+
+## Our Products
+
+| Product | What it does |
+|---------|-------------|
+| **[Aura](https://my-aura.app)** | Cloud management dashboard for WordPress sites — DNS, SSL, backups, monitoring |
+| **[DeepClaw](https://deep-claw.com)** | AI agent operations dashboard — monitor sessions, cron jobs, costs, security |
+| **[Linker](https://digitizer.li)** | URL shortener with click analytics, campaigns, deep linking, custom OG tags |
+| **[Pulse](https://pulse.digitizer.dev)** | SEO analytics dashboard — GA4, GSC, keyword tracking |
+| **[Quoty](https://quoty.digitizer.dev)** | Beautiful client proposals with PDF export and e-signatures |
+| **[AgencyOS](https://agency-os.org)** | Agency operating system — projects, tasks, content calendar, buying intent leads |
+
+## Tech Stack
+
+`Next.js` `TypeScript` `Tailwind CSS` `Prisma` `PostgreSQL (Neon)` `Vercel` `WordPress` `OpenClaw` `Hono`
+
+## Connect
+
+🌐 [digitizer.co.il](https://www.digitizer.co.il) • [digitizer.studio](https://www.digitizer.studio)  
+💼 [LinkedIn](https://www.linkedin.com/company/digitizer-il)  
+📧 [hello@digitizer.co.il](mailto:hello@digitizer.co.il)
+
+---
+
+*Built with ❤️ and AI by a two-person team in Israel* 🇮🇱
