@@ -14,7 +14,7 @@
 | Project | Description |
 |---------|-------------|
 | [**WordPress API Pro**](https://github.com/Digitizers/wordpress-api-pro) | 🔧 Manage WordPress sites via REST API — posts, media, Elementor, WooCommerce, ACF, Rank Math. Multi-site support. [ClawHub](https://clawhub.ai/benkalsky/wordpress-api-pro) |
-| [**AuraWorker**](https://github.com/Digitizers/AuraWorker) | 🔌 WordPress plugin for AI-powered site management — connects your sites to [Aura](https://my-aura.app) dashboard |
+| [**SiteAgent**](https://github.com/Digitizers/SiteAgent) | 🔌 WordPress plugin for AI-powered site management — connects your sites to [Aura](https://my-aura.app) dashboard |
 
 ## Our Products
 
@@ -22,6 +22,7 @@
 |---------|-------------|
 | **[Aura](https://my-aura.app)** | Cloud management dashboard for WordPress sites — DNS, SSL, backups, monitoring |
 | **[DeepClaw](https://deep-claw.com)** | AI agent operations dashboard — monitor sessions, cron jobs, costs, security |
+| **[AutoMate](https://myautomate.co.il)** | Vehicle inventory management for a car dealership. Designed for desk and dealership branch staff |
 | **[Linker](https://digitizer.li)** | URL shortener with click analytics, campaigns, deep linking, custom OG tags |
 | **[Pulse](https://pulse.digitizer.dev)** | SEO analytics dashboard — GA4, GSC, keyword tracking |
 | **[Quoty](https://quoty.digitizer.dev)** | Beautiful client proposals with PDF export and e-signatures |
@@ -29,7 +30,7 @@
 
 ## Tech Stack
 
-`Next.js` `TypeScript` `Tailwind CSS` `Prisma` `PostgreSQL (Neon)` `Vercel` `WordPress` `OpenClaw` `Hono`
+`Next.js` `TypeScript` `Tailwind CSS` `Prisma` `PostgreSQL` `Vercel` `WordPress` `OpenClaw` `Hono` `Hermes` 
 
 ## Connect
 
