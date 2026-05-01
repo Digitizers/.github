@@ -15,7 +15,7 @@
 |---------|-------------|
 | [**WordPress API Pro**](https://github.com/Digitizers/wordpress-api-pro) | 🔧 Manage WordPress sites via REST API — posts, media, Elementor, WooCommerce, ACF, Rank Math. Multi-site support. [ClawHub](https://clawhub.ai/benkalsky/wordpress-api-pro) |
 | [**SiteAgent**](https://github.com/Digitizers/SiteAgent) | 🔌 WordPress plugin for AI-powered site management — connects your sites to [Aura](https://my-aura.app) dashboard |
-| [**DeepClaw for OpenClaw**](https://github.com/Digitizers/deepclaw-openclaw) | 🔌 OpenClaw observability plugin for real-time LLM usage, token, cache, reasoning, and cost telemetry |
+| [**DeepClaw Plugin**](https://github.com/Digitizers/deepclaw-openclaw) | 🔌 OpenClaw observability plugin for real-time LLM usage, token, cache, reasoning, and cost telemetry. [ClawHub](https://clawhub.ai/plugins/deepclaw-openclaw) |
 
 ## Our Products
 
