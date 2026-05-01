@@ -16,6 +16,7 @@
 | [**WordPress API Pro**](https://github.com/Digitizers/wordpress-api-pro) | 🔧 Manage WordPress sites via REST API — posts, media, Elementor, WooCommerce, ACF, Rank Math. Multi-site support. [ClawHub](https://clawhub.ai/benkalsky/wordpress-api-pro) |
 | [**SiteAgent**](https://github.com/Digitizers/SiteAgent) | 🔌 WordPress plugin for AI-powered site management — connects your sites to [Aura](https://my-aura.app) dashboard. [WP.org](https://wordpress.org/plugins/digitizer-site-worker) |
 | [**DeepClaw Plugin**](https://github.com/Digitizers/deepclaw-openclaw) | 🔌 OpenClaw observability plugin for real-time LLM usage, token, cache, reasoning, and cost telemetry. [ClawHub](https://clawhub.ai/plugins/deepclaw-openclaw) |
+| **Sumit [API](https://github.com/Digitizers/sumit-api) + [React](https://github.com/Digitizers/sumit-react)** | 🔌 Pure TypeScript helpers + React components and Next.js route helpers for SUMIT (formerly OfficeGuy) payments |
 
 ## Our Products
 
