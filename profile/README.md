@@ -25,9 +25,9 @@
 | **[Aura](https://my-aura.app)** | Cloud management dashboard for WordPress sites — DNS, SSL, backups, monitoring |
 | **[DeepClaw](https://deep-claw.com)** | AI agent operations dashboard — monitor sessions, cron jobs, costs, security |
 | **[AutoMate](https://myautomate.co.il)** | Vehicle inventory management for a car dealership. Designed for desk and dealership branch staff |
-| **[Linker](https://digitizer.li)** | URL shortener with click analytics, campaigns, deep linking, custom OG tags |
+| **[Linky](https://linky.co.il)** | URL shortener with click analytics, campaigns, deep linking, custom OG tags |
 | **[Pulse](https://pulse.digitizer.dev)** | SEO analytics dashboard — GA4, GSC, keyword tracking |
-| **[Quoty](https://quoty.digitizer.dev)** | Beautiful client proposals with PDF export and e-signatures |
+| **[Quoty](https://quoty.co.il)** | Beautiful client proposals with PDF export and e-signatures |
 | **[AgencyOS](https://agency-os.org)** | Agency operating system — projects, tasks, content calendar, buying intent leads |
 
 ## Tech Stack
