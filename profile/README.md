@@ -28,9 +28,9 @@
 | Project | Description |
 |---------|-------------|
 | [**agent-skills**](https://github.com/Digitizers/agent-skills) | 🧠 Reusable skills for coding agents — review loops, workflows, guardrails |
-| [**Notary**](https://github.com/Digitizers/Notary) + [**notary-memory-kit**](https://github.com/Digitizers/notary-memory-kit) | 📓 Governed memory for AI agents — facts, conflicts, audit |
+| [**Notary**](https://github.com/Digitizers/Notary) | 📓 Governed memory for AI agents — facts, conflicts, audit |
+| [**notary-memory-kit**](https://github.com/Digitizers/notary-memory-kit) | 🧩 Drop-in memory kit for wiring Notary into agent runtimes |
 | [**DeepClaw Plugin**](https://github.com/Digitizers/deepclaw-openclaw) | 🔌 OpenClaw observability — LLM usage, tokens, cache, cost telemetry |
-| [**digitizer-pro-tools**](https://github.com/Digitizers/digitizer-pro-tools) | 🧰 Internal pro tools, open for reuse |
 | [**RTL Support**](https://marketplace.visualstudio.com/items?itemName=Digitizers.rtl-support) | ↔️ VS Code extension for right-to-left editing |
 
 ### WordPress & Web
@@ -40,7 +40,9 @@
 | [**WordPress API Pro**](https://github.com/Digitizers/wordpress-api-pro) | 🔧 Manage WordPress via REST API — posts, media, Elementor, WooCommerce, ACF |
 | [**SiteAgent**](https://wordpress.org/plugins/digitizer-site-worker/) | 🔌 WordPress plugin for AI-powered site management ([repo](https://github.com/Digitizers/SiteAgent)) |
 | [**siteagent-elementor-studio**](https://github.com/Digitizers/siteagent-elementor-studio) | 🎛️ Elementor studio tooling for SiteAgent |
-| **[Sumit API](https://github.com/Digitizers/sumit-api) + [React](https://github.com/Digitizers/sumit-react)** | 💳 TypeScript helpers + React components for SUMIT payments |
+| [**sumit-api**](https://github.com/Digitizers/sumit-api) | 💳 Pure TypeScript helpers for SUMIT (OfficeGuy) payments |
+| [**sumit-react**](https://github.com/Digitizers/sumit-react) | ⚛️ React components and Next.js route helpers for SUMIT |
+| [**digitizer-pro-tools**](https://github.com/Digitizers/digitizer-pro-tools) | 🧰 Modular WordPress toolbox plugin — 9 modules, from a multilingual cookie-consent banner to post duplication |
 
 ## Our Products
 
@@ -51,8 +53,6 @@
 | **[AutoMate](https://myautomate.co.il)** | Vehicle inventory management for car dealerships |
 | **[Linky](https://linky.co.il)** | URL shortener with click analytics, campaigns, deep linking |
 | **[Quoty](https://quoty.co.il)** | Client proposals with PDF export and e-signatures |
-| **[Pulse](https://pulse.digitizer.dev)** | SEO analytics dashboard — GA4, GSC, keyword tracking |
-| **[AgencyOS](https://agency-os.org)** | Agency operating system — projects, tasks, content calendar |
 
 ## Tech Stack
 
