@@ -4,11 +4,11 @@
 
 ## What We Do
 
-🤖 **AI Implementation** — autonomous agents with real permissions, audit logs and human oversight
-🔌 **MCP Servers** — connecting AI to the systems businesses run on: billing, hosting, CMS, ads
-⚡ **Automations** — end-to-end business processes that close tasks, not just answer questions
-🌐 **Web Development** — WordPress, Next.js, headless architectures; performance and Core Web Vitals
-🔍 **SEO & Content** — technical SEO, bilingual content (Hebrew + English), AI-powered content pipeline
+🤖 **AI Implementation** — autonomous agents with real permissions, audit logs and human oversight  
+🔌 **MCP Servers** — connecting AI to the systems businesses run on: billing, hosting, CMS, ads  
+⚡ **Automations** — end-to-end business processes that close tasks, not just answer questions  
+🌐 **Web Development** — WordPress, Next.js, headless architectures; performance and Core Web Vitals  
+🔍 **SEO & Content** — technical SEO, bilingual content (Hebrew + English), AI-powered content pipeline  
 
 ## Open Source
 
@@ -60,8 +60,8 @@
 
 ## Connect
 
-🌐 [digitizer.co.il](https://www.digitizer.co.il) • [digitizer.studio](https://www.digitizer.studio) • [benkalsky.co.il](https://www.benkalsky.co.il) (blog, Hebrew)
-💼 [LinkedIn](https://www.linkedin.com/company/digitizer-il)
+🌐 [digitizer.co.il](https://www.digitizer.co.il) • [digitizer.studio](https://www.digitizer.studio) • [benkalsky.co.il](https://www.benkalsky.co.il) (blog, Hebrew)  
+💼 [LinkedIn](https://www.linkedin.com/company/digitizer-il)  
 📧 [hello@digitizer.co.il](mailto:hello@digitizer.co.il)
 
 ---
