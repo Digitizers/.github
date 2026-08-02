@@ -44,6 +44,19 @@
 | [**sumit-react**](https://github.com/Digitizers/sumit-react) | ⚛️ React components and Next.js route helpers for SUMIT |
 | [**digitizer-pro-tools**](https://github.com/Digitizers/digitizer-pro-tools) | 🧰 Modular WordPress toolbox plugin — 9 modules, from a multilingual cookie-consent banner to post duplication |
 
+## Closed Source (How We Work)
+
+Private repos powering our day-to-day — listed as use cases. Happy to walk through any of them.
+
+| Project | What it does |
+|---------|-------------|
+| **notary-memory-runtime** | Governed-memory runtime for AI agents — enforces write authority before facts mutate, with capture hooks, leak scanning and a full audit trail |
+| **digitizer-os** | The company brain as a Claude Code plugin — strategy, pricing, services and competitive intelligence available to our agents in every session |
+| **marketing-skills** | Marketing skill pack for coding agents — Hebrew/English SEO methodology with an empirical verification gate, tracking plans, CRO playbooks |
+| **ContentEngine** | Standalone organic-growth workbench — the content pipeline behind our SEO work, productized |
+| **AgencyOS** | Internal operations platform — CRM, projects, time tracking and reporting for a 2-person team scaling with AI |
+| **Pulse** | Internal analytics dashboard — GA4, Search Console and Airtable unified in real time |
+
 ## Our Products
 
 | Product | What it does |
